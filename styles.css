@@ -2,6 +2,9 @@ body{
     background-color: #FFFFFF;
     color: #434455;
 }
+header{
+    color: #2E2F42;
+}
 footer{
     background-color: #2E2F42;
     color: #E7E9FC;
@@ -15,8 +18,19 @@ h2,h3{
 ul{
     list-style-type: none;
 }
+a{
+    text-decoration: none;
+    color: #434455;
+}
+nav{
+    color: #2E2F42;
+}
 
 
 .efective-solutions{
     background-color: #2E2F42;
+}
+.efective-solutions-button{
+    background-color: #4D5AE5;
+    color: #FFFFFF;
 }
