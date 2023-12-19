@@ -1,0 +1,22 @@
+body{
+    background-color: #FFFFFF;
+    color: #434455;
+}
+footer{
+    background-color: #2E2F42;
+    color: #E7E9FC;
+}
+h1{
+    color: #FFFFFF;
+}
+h2,h3{
+    color: #2E2F42;
+}
+ul{
+    list-style-type: none;
+}
+
+
+.efective-solutions{
+    background-color: #2E2F42;
+}
