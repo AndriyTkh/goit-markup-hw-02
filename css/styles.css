@@ -80,7 +80,7 @@ a{
 }
 .efective-solutions-button:hover,
 .efective-solutions-button:focus{
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 .list-title{
