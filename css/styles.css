@@ -76,9 +76,10 @@ a{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
+    cursor: pointer;
 }
-.efective-solutions-button.hover,
-.efective-solutions-button.focus{
+.efective-solutions-button:hover,
+.efective-solutions-button:focus{
     color: #404BBF;
 }
 
