@@ -18,10 +18,11 @@ ul{
 a{
     text-decoration: none;
 }
-address{
+
+
+.contact-info{
     font-style: normal;
 }
-
 .navigation{
     color: #2E2F42;
 }
@@ -61,8 +62,8 @@ address{
 .efective-solutions{
     background-color: #2E2F42;
 }
-.eefective-solutions-title{
-    font-size: 56;
+.efective-solutions-title{
+    font-size: 56px;
     letter-spacing: 0.02em;
     text-align: center;
     line-height: 1.07;
